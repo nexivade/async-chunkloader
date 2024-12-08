@@ -19,7 +19,7 @@ Ein Minecraft-Plugin zur asynchronen Chunk-Generierung, das die Performance dein
     
 ## 📦 Installation
 
-1. Lade das Plugin von der [Releases-Seite]([https://github.com/nexivade/async-chunkloader/releases/tag/Release]) herunter.
+1. Lade das Plugin von der [https://github.com/nexivade/async-chunkloader/releases/tag/Release] herunter.
 2. Platziere die heruntergeladene `.jar`-Datei in den `plugins`-Ordner deines Minecraft-Servers.
 3. Starte deinen Server neu.
 
