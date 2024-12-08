@@ -30,3 +30,7 @@ Das Plugin arbeitet im Hintergrund und benötigt keine direkten Befehle zur Akti
 📜 Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz.
+
+DISCLAIMER:
+This Minecraft Plugin is in a early state and can have bugs or other related stuff.
+If this happens please open a Issue
